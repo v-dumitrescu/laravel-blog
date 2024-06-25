@@ -1,2 +1,2 @@
 # laravel-blog
-A blog made in Laravel
+A blog made in Laravel 11
